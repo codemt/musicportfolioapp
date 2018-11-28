@@ -39,7 +39,7 @@
 								</header>
 								<a href="#work" class="jumplink pic">
 									<span class="arrow icon fa-chevron-right"><span>See my work</span></span>
-									<img src="{{ asset('images/me.jpg') }}" alt="" />
+									<img src="{{ asset('images/moonskylogo.jpg') }}" alt="" />
 								</a>
 							</article>
 
@@ -156,29 +156,13 @@
 							<!-- About Me -->
 							<article id="aboutme" class="panel">
 									<header>
-										<h2>Contact Me</h2>
+										<h2>About  Me</h2>
 									</header>
-									<form action="#" method="post">
-										<div>
-											<div class="row">
-												<div class="col-6 col-12-medium">
-													<input type="text" name="name" placeholder="Name" />
-												</div>
-												<div class="col-6 col-12-medium">
-													<input type="text" name="email" placeholder="Email" />
-												</div>
-												<div class="col-12">
-													<input type="text" name="subject" placeholder="Subject" />
-												</div>
-												<div class="col-12">
-													<textarea name="message" placeholder="Message" rows="6"></textarea>
-												</div>
-												<div class="col-12">
-													<input type="submit" value="Send Message" />
-												</div>
-											</div>
-										</div>
-									</form>
+									<p>
+										Hello there.
+										i am musician and Music producer from mumbai india.
+										Feel free to collaborate and if you want you can get a track ghost produced by me. Here are a few sample tracks of mine. Cheers!
+									</p>
 								</article>
 
 					</div>
