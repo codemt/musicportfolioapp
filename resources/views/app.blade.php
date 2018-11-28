@@ -49,9 +49,7 @@
 									<h2>My Work Samples</h2>
 								</header>
 								<p>
-									Phasellus enim sapien, blandit ullamcorper elementum eu, condimentum eu elit.
-									Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-									luctus elit eget interdum.
+									<!--Check out some of my Tracks here. <br>  i compose a lot of Trance & Dance and Rock & Pop Music. -->
 								</p>
 								<section>
 									<div class="row">
@@ -100,9 +98,7 @@
 											<h2>Video Library</h2>
 										</header>
 										<p>
-											Phasellus enim sapien, blandit ullamcorper elementum eu, condimentum eu elit.
-											Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-											luctus elit eget interdum.
+											
 										</p>
 										<section>
 											<div class="row">
@@ -170,7 +166,7 @@
 				<!-- Footer -->
 					<div id="footer">
 						<ul class="copyright">
-							<li>&copy; Untitled.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>&copy; MoonSky Records.</li><li>Design: <a href="mithilesh.herokuapp.com">CodeMT</a></li>
 						</ul>
 					</div>
 
